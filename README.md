@@ -1,2 +1,0 @@
-# LnLSession
-test file
